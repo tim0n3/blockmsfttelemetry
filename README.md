@@ -1,4 +1,4 @@
 # Firewall and Disable Microsoft('s) telemetry services:
-### Firewall Msft Telemetry and disable the services
+### Firewall Msft Telemetry and disable the services <br>
 <br>
 Run `setup.bat` as administrator or in an administrator command prompt for this to work.
